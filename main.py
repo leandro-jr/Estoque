@@ -5,6 +5,7 @@
 
 
 def insert_estoque():
+    print("olá")
     estoque_dict = {}
     print("Entre com os produtos no estoque. Quando estiver satisfeito escreva 'pare'")
     while True:
