@@ -5,7 +5,7 @@
 
 
 def insert_estoque():
-    print("olá")
+    print("olár")
     estoque_dict = {}
     print("Entre com os produtos no estoque. Quando estiver satisfeito escreva 'pare'")
     while True:
@@ -26,4 +26,5 @@ def insert_estoque():
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     print("Hi")
+    print("Enviando pro github")
     insert_estoque()
